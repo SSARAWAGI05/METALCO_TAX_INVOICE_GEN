@@ -31,8 +31,9 @@ const PREDEFINED_ITEMS = [
 ];
 
 const PREDEFINED_COMPANIES = [
-  'ABC Pvt Ltd',
-  'XYZ Industries',
+  'Dholai',
+  'Tasati',
+  'Cheviot',
   'Add New'
 ];
 
