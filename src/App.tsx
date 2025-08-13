@@ -74,7 +74,6 @@ function App() {
     if (!formData.billNumber.trim()) newErrors.billNumber = 'Bill number is required';
     if (!formData.billType.trim()) newErrors.billType = 'Bill type is required';
     if (!formData.billDate) newErrors.billDate = 'Bill date is required';
-    if (!formData.consignmentNumber.trim()) newErrors.consignmentNumber = 'Consignment number is required';
     
     if (!formData.itemDescription) {
       newErrors.itemDescription = 'Item description is required';
