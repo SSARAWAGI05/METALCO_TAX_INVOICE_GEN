@@ -25,8 +25,8 @@ interface SubmissionState {
 }
 
 const PREDEFINED_ITEMS = [
-  'PAPER SACKS',
-  'PP',
+  'PAPER SACKS HSN NO: 48194000',
+  'P. P. WOVEN BAGS HSN : 3923',
   'Add New'
 ];
 
